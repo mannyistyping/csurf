@@ -3,6 +3,7 @@
  * Copyright(c) 2011 Sencha Inc.
  * Copyright(c) 2014 Jonathan Ong
  * Copyright(c) 2014-2016 Douglas Christopher Wilson
+ * Copyright(c) 2022-Present Manny Pamintuan
  * MIT Licensed
  */
 
