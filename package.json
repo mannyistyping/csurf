@@ -8,7 +8,7 @@
     "Manny Pamintuan <mannyis@typingona.computer>"
   ],
   "license": "MIT",
-  "repository": "expressjs/csurf",
+  "repository": "mannyistypingonacomputer/csurf",
   "dependencies": {
     "cookie": "0.4.1",
     "cookie-signature": "1.0.6",
